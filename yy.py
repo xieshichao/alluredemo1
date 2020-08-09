@@ -10,3 +10,5 @@ def test_1():
 if __name__ == '__main__':
     pytest.main(['-sv','yy.py','--alluredir=repote'])
     #os.system('allure serve repote')
+
+"""java牛逼"""
